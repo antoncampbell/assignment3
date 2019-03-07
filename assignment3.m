@@ -86,13 +86,13 @@ electron_box_3modes_A3(3)
 % 
 % *(a)*
 %
-% Figure 1 shows some particle trajectories when the bottle neck is 
+% Figure 7 shows some particle trajectories when the bottle neck is 
 % present. The paths are curved towards the right as the acceleration is 
 % to the right.
 %
 % *(b)*
 % 
-% Figure 3 shows the density map at the end of the simulation.
+% Figure 8 shows the density map at the end of the simulation.
 % The density is high to left of the boundaries. The acceleration is to the
 % right so electrons often get stuck on the left.
 %
